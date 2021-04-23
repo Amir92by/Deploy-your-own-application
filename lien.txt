@@ -1,1 +1,1 @@
-httpsgithub.comAmir92byDeploy-your-own-application
+https://wam-s.herokuapp.com/
